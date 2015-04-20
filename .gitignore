@@ -8,9 +8,12 @@
 out
 
 # intellij
-*.eml
-*.iml
-*.ipr
+#*.eml
+#*.iml
+#*.ipr
 *.iws
-.*.sw?
-.idea
+#.*.sw?
+#.idea
+.idea/workspace.xml
+.idea/tasks.xml
+
